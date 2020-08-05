@@ -1,0 +1,15 @@
+*{
+  text-align: center;
+
+}
+body{
+  background-image: url(dog2.jpg);
+}
+form{
+  border: 2px outset;
+padding: 50px 50px 50px 50px;
+background-color: #1E90FF	;
+
+margin-left: 500px;
+margin-right: 500px;
+}
